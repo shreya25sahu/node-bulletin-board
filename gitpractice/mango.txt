@@ -1,2 +1,0 @@
-Hi I'm mango
-I'm inside gitpractice directory.
